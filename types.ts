@@ -1,5 +1,5 @@
 //Programador: Francisco Javier Gutierrez Gallego
-import {OptionalId} from "mongodb"
+import {OptionalId} from "mongodb" 
 
 export type RestaurantModel = OptionalId<{
     name:string,
